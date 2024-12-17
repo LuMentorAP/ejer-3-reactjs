@@ -1,0 +1,16 @@
+.equipo-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .equipo-container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .team-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  

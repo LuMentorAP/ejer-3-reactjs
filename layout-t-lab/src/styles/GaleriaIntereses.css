@@ -1,0 +1,23 @@
+.galeria-container {
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .galeria-container ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+  }
+  
+  .galeria-container li button {
+    background-color: #6c757d;
+    color: #fff;
+  }
+  
+  .galeria-container li button:hover {
+    background-color: #5a6268;
+  }
+  
